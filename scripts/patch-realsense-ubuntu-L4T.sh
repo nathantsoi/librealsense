@@ -91,7 +91,7 @@ case ${JETSON_L4T_VERSION} in
 		PATCHES_REV="5.0.2"	# JP 5.0.2
 		KERNEL_RELEASE="5.10"
 	;;
-	"36.3")
+	"36.3" | "36.4.4")
 		PATCHES_REV="6.0"	# JP 6.0
 		KERNEL_RELEASE="5.15"
 	;;
